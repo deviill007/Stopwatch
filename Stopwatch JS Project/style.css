@@ -1,0 +1,49 @@
+body{
+    background-color: #D58BDC;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+ 
+}
+#container{
+    color: #000000;
+}
+.Digit{
+    font-size: 180px;
+    font-weight:bold;
+    font-family:l;
+}
+.Text{
+    font-size: 40px;
+    font-weight: bold;
+}
+#Button-Container{
+    text-align: center;
+    margin-top: 10px;
+
+}
+.btn{
+    padding: 13px 50px;
+    font-size: 20px;
+    border-radius: 20px;
+    border: 0px;
+    margin: 20px;
+    color: #ffffff;
+    cursor: pointer;
+
+}
+#start{
+    background-color: #7D03B7;
+
+}
+
+#stop{
+    background-color: #B239DC;
+
+}
+
+#reset{
+    background-color: #EA74AD;
+    
+}
